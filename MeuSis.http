@@ -1,0 +1,6 @@
+@MeuSis_HostAddress = http://localhost:5285
+
+GET {{MeuSis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
